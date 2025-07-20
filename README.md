@@ -87,7 +87,7 @@ func azure functionapp publish image-metadata-func
 ---
 
 ## 🎥 YouTube Demo
-
+https://drive.google.com/file/d/1Jb3uK64ySgXYCOJy2bzP4WkCeEMyoWQX/view?usp=sharing
 
 
 ---
